@@ -1,4 +1,4 @@
-# Bootstrap at block 396947
+# Bootstrap at block 444163
 
 ***
 
@@ -12,7 +12,7 @@
 
 
 * Wait until script finish all the procedures. 
-* When all done your VPS Wallet will be on block 396947 and with connections to get more blocks ahead
+* When all done your VPS Wallet will be on block 444163 and with connections to get more blocks ahead
 
 ***
 
@@ -30,6 +30,6 @@
 
 * Open  your Savenode Wallet
 
-* Your Wallet will be on block 396947 and with connections to get more blocks ahead
+* Your Wallet will be on block 444163 and with connections to get more blocks ahead
 
 ***
